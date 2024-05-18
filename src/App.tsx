@@ -42,7 +42,7 @@ function App(): React.JSX.Element {
         name='Home'
         component={Home}
         options={{
-          title: "Treding products"
+          title: "Trending products"
         }}
         />
         <Stack.Screen 
